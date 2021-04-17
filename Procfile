@@ -1,2 +1,1 @@
-
-worker: html index.html
+worker: index.html
