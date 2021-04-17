@@ -1,0 +1,2 @@
+
+worker: html index.html
